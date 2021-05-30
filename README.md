@@ -1,2 +1,2 @@
-# GIT_HUB_LESSONS
-Exercises for GITHUB
+# GIT_HUB_LESSONS LETS GO
+Exercises for GITHUB are going fine
